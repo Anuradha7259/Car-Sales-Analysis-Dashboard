@@ -5,6 +5,9 @@ This project focuses on analyzing used-car sales records using Power BI. The das
 
 The objective is to transform raw sales data into meaningful insights through interactive visualizations and KPI reporting.
 
+## Dashboard Preview
+![Car Sales Analysis Dashboard](Car%20Sales%20Analysis%20Dashboard.png)
+
 ## Tools & Technologies
 - Power BI Desktop
 - Power Query
